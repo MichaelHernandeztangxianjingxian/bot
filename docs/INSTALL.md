@@ -258,3 +258,5 @@ A request for payment will be sent to the seller and will be displayed in the `b
 15) Finally, the buyer will be notified that the transaction has been successfully completed.
 
 ![compra_exiosa](images/compra_exiosa.jpg)
+
+<!-- Auto-update: 2025-10-05T11:17:39.057729 -->
